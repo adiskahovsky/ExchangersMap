@@ -1,0 +1,17 @@
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\ExchangersMap.BLL.dll
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\ExchangersMap.BLL.pdb
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\AutoMapper.dll
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\ExchangersMap.DAL.dll
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\System.ValueTuple.dll
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\EntityFramework.dll
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\ExchangersMap.DAL.pdb
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\ExchangersMap.DAL.dll.config
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\AutoMapper.pdb
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\AutoMapper.xml
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\System.ValueTuple.xml
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\bin\Debug\EntityFramework.xml
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\obj\Debug\ExchangersMap.BLL.csprojAssemblyReference.cache
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\obj\Debug\ExchangersMap.BLL.csproj.CoreCompileInputs.cache
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\obj\Debug\ExchangersMap.BLL.csproj.CopyComplete
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\obj\Debug\ExchangersMap.BLL.dll
+C:\Kahovsky\экзаменADO.NET-20190226T111651Z-001-20190226T155249Z-001\экзаменADO.NET-20190226T111651Z-001\ExchangersMap\ExchangersMap.BLL\obj\Debug\ExchangersMap.BLL.pdb
