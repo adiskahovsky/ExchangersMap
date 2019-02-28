@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ExchangersMap.DAL.Repositories
 {
-    internal class BankRepozitory : GenericRepository<Bank>
+    public class BankRepozitory : GenericRepository<Bank>
     {
         public BankRepozitory(DbContext db ):base(db)
         {

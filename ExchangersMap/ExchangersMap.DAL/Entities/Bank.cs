@@ -12,7 +12,7 @@ namespace ExchangersMap.DAL.Entities
         public virtual BankName Name { get; set; }
 
 
-        public virtual ICollection<Departmen> Departaments { get; set; }
+        public virtual ICollection<Department> Departaments { get; set; }
         public virtual ICollection<Currency> Currencies { get; set; }
 
 

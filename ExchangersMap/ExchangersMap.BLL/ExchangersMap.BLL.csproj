@@ -50,10 +50,12 @@
     <Compile Include="DTO\BankFullInfo.cs" />
     <Compile Include="DTO\BankInfo.cs" />
     <Compile Include="DTO\CurrencyInfo.cs" />
+    <Compile Include="DTO\DepartmentInfoDTO.cs" />
     <Compile Include="DTO\DepartmentInfo.cs" />
     <Compile Include="Helpers\ResultOperationInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BankService.cs" />
+    <Compile Include="Services\DepartmentService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />

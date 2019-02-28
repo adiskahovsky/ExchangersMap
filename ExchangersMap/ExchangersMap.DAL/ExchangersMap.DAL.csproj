@@ -54,7 +54,7 @@
     <Compile Include="Entities\Base\IBaseEntity.cs" />
     <Compile Include="Entities\Currency.cs" />
     <Compile Include="Entities\CurrencyName.cs" />
-    <Compile Include="Entities\Departmen.cs" />
+    <Compile Include="Entities\Department.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\BankRepozitory.cs" />
     <Compile Include="Repositories\Base\GenericRepository.cs" />

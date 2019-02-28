@@ -27,7 +27,7 @@ namespace ExchangersMap.DAL.Contexts
 
         public DbSet<Currency> Currencies { get; set; }
 
-        public DbSet<Departmen> Departmens { get; set; }
+        public DbSet<Department> Departmens { get; set; }
 
         public DbSet<CurrencyName> CurrencyNames { get; set; }
 

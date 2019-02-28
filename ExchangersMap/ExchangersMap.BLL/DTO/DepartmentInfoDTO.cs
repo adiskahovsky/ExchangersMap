@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace ExchangersMap.BLL.DTO
 {
-    public class DepartmentInfo
+    public class DepartmentInfoDTO
     {
 
-        public int Id { get; set; }
+        public string BankName { get; set; }
         public string Address { get; set; }
 
         public decimal LocX { get; set; }
 
         public decimal LocY { get; set; }
-
-  
+        public ICollection<CurrencyInfo> Currencies { get; set; }
     }
 }
